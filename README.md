@@ -22,5 +22,6 @@ This will print decrypted file.txt or String
     echo "Somthing" | ./rail -dl LayerNumber
 
 To encrypt just omit -d
+
     ./rail -l LayerNumber [File or String]
     echo "Encrypted Text" | ./rail -l LayerNumber
