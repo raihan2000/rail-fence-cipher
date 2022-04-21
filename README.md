@@ -1,4 +1,4 @@
-# Rail Fence Cipher
+# Rail Fence Cipher Encoder/Decoder
 
 About Rail Fence Cipher : https://en.wikipedia.org/wiki/Rail_fence_cipher
 
